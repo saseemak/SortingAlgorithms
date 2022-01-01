@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "SortingAlgorithms_96954c9b"
+        },
+        {
+            "type": "java",
             "name": "Launch QuickSort",
             "request": "launch",
             "mainClass": "QuickSort",

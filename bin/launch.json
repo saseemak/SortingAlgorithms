@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "SortingAlgorithms_96954c9b"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "SortingAlgorithms_96954c9b"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertionSort",
+            "request": "launch",
+            "mainClass": "InsertionSort",
+            "projectName": "SortingAlgorithms_96954c9b"
+        },
+        {
+            "type": "java",
             "name": "Launch SelectionSort",
             "request": "launch",
             "mainClass": "SelectionSort",
