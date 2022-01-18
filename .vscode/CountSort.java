@@ -1,4 +1,3 @@
-import java.util.Arrays;;
 public class CountSort {
      public static void main(String[] args) {
          int[] A = new int[]{1,3,2,3,4,1,6,4,3};
