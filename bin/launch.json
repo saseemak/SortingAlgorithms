@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CountSort",
+            "request": "launch",
+            "mainClass": "CountSort",
+            "projectName": "SortingAlgorithms_96954c9b"
+        },
+        {
+            "type": "java",
             "name": "Launch MergeSort",
             "request": "launch",
             "mainClass": "MergeSort",
