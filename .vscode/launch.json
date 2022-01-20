@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ShellSort",
+            "request": "launch",
+            "mainClass": "ShellSort",
+            "projectName": "SortingAlgorithms_5f852223"
+        },
+        {
+            "type": "java",
             "name": "Launch RadixSort",
             "request": "launch",
             "mainClass": "RadixSort",
