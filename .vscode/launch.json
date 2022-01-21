@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "leetcode.BinarySearch",
+            "projectName": "SortingAlgorithms_5f852223"
+        },
+        {
+            "type": "java",
             "name": "Launch ShellSort",
             "request": "launch",
             "mainClass": "ShellSort",
